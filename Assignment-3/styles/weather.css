@@ -1,0 +1,32 @@
+body {
+  background: url('img/background.jpg') no-repeat center center fixed;
+}
+
+.main {
+  border: 10px solid black;
+}
+
+.card-body {
+
+  background: linear-gradient(to right, aliceblue, rgb(167, 219, 202));
+  padding: 10px;
+}
+
+.back {
+  width: 40px;
+  
+}
+
+
+.btn-info {
+    color: #fff;
+    background-color: #42bd91;
+    border-color: #42bd91;
+}
+
+ .btn-info :hover,.btn-info:focus{
+  background: transparent;
+  color: #fff;
+  border:1px solid #42bd91;
+
+}
